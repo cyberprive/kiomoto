@@ -4,6 +4,7 @@ import Footer from './components/Footer.jsx';
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 import MapSection from './components/MapSection.jsx';
+import QuoteForm from './components/QuoteForm.jsx';
 import Services from './components/Services.jsx';
 import StickyCta from './components/StickyCta.jsx';
 
@@ -14,6 +15,7 @@ export default function App() {
       <main>
         <Hero />
         <Services />
+        <QuoteForm />
         <About />
         <MapSection />
         <Contact />

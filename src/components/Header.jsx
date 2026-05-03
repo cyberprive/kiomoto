@@ -4,6 +4,7 @@ import { IconWhatsApp } from './Icon';
 
 const links = [
   { href: '#servicios', label: 'Servicios' },
+  { href: '#presupuesto', label: 'Presupuesto' },
   { href: '#nosotros', label: 'Nosotros' },
   { href: '#ubicacion', label: 'Ubicación' },
   { href: '#contacto', label: 'Contacto' },
