@@ -3,6 +3,7 @@ import {
   ADDRESS_LINE_2,
   PHONE_DISPLAY,
   PHONE_TEL,
+  WHATSAPP_DISPLAY,
   WHATSAPP_URL,
 } from '../lib/constants';
 import { IconMapPin, IconPhone, IconWhatsApp } from './Icon';
@@ -72,7 +73,7 @@ export default function Contact() {
                       WhatsApp
                     </div>
                     <div className="mt-1 text-lg font-semibold text-white">
-                      {PHONE_DISPLAY}
+                      {WHATSAPP_DISPLAY}
                     </div>
                   </a>
                 </li>

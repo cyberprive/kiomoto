@@ -1,5 +1,7 @@
-export const PHONE_DISPLAY = '+58 414-4366787';
-export const PHONE_TEL = '+584144366787';
+export const PHONE_DISPLAY = '+34 911 722 537';
+export const PHONE_TEL = '+34911722537';
+
+export const WHATSAPP_DISPLAY = '+58 414-4366787';
 export const WHATSAPP_NUMBER = '584144366787';
 export const WHATSAPP_URL = (msg) =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
